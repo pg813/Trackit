@@ -41,7 +41,8 @@ public class LoginLogOut {
 	  driver.findElement(By.id("usersFirstName-btnWrap")).click();
 	  
 	 driver.findElement(By.id("logout-menuItem-itemEl")).click();
-			  ////a[@id='logout-menuItem-itemEl']
+	
+	 //a[@id='logout-menuItem-itemEl']
 
   }
   
