@@ -43,6 +43,7 @@ public class LoginLogOut {
 	 driver.findElement(By.id("logout-menuItem-itemEl")).click();
 	
 	 //a[@id='logout-menuItem-itemEl']
+	 //hello bmc software, how  are u?
 
   }
   
